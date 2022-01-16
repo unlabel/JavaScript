@@ -1,3 +1,2 @@
-let number = 5;
-
-console.log(number + 3);
+const numberOfFilms = prompt("Сколько фильмов вы уже посмотрели?", "");
+console.log(numberOfFilms);
